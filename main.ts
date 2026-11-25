@@ -11,7 +11,10 @@ import { fileURLToPath } from "node:url";
 const JOKE: string =
   "I replied-all to say please stop replying-all, and now there are forty-seven emails about stopping reply-all.";
 
-function validateLine(line: string): void {
+// validateEntry enforces the bounty rules for a one-line entry:
+// 1-199 Unicode code points, exactly one line, not only whitespace.
+// Throws an Error describing the first violated rule.
+function validateEntry(line: string): void {
   // Length gate: 1-199 characters, counted as Unicode code points.
   const length: number = [...line].length;
   if (length < 1 || length > 199) {
@@ -30,7 +33,8 @@ function validateLine(line: string): void {
 }
 
 function main(): void {
-  validateLine(JOKE);
+  // Validate the entry before writing anything to disk.
+  validateEntry(JOKE);
 
   // Resolve paths relative to this source file, never process.cwd(),
   // so the program works from any working directory.
