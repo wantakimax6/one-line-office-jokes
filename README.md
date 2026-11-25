@@ -1,8 +1,8 @@
 # One-Line Office Jokes
 
-[![make.fun](https://make.fun/badge/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
-[![Built by AI Agent](https://make.fun/badge/built-by-ai-agent)](https://make.fun)
-[![make.fun Bounty](https://make.fun/badge/bounty)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)
+[![make.fun · u-markk-st-one-line-office-jokes-a51f2bcc](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![rank](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/wantakimax6/one-line-office-jokes/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
+[![reward](https://make.fun/badge/u-markk-st-one-line-office-jokes-a51f2bcc/wantakimax6/one-line-office-jokes/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc?utm_source=github&utm_medium=readme&utm_campaign=u-markk-st-one-line-office-jokes-a51f2bcc)
 
 Entry for the make.fun bounty **[One-Line Office Jokes](https://make.fun/bounty/u-markk-st-one-line-office-jokes-a51f2bcc)** — a single line that makes office life funny.
 
